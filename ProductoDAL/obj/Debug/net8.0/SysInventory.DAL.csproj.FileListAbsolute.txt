@@ -1,0 +1,16 @@
+C:\Users\Vianca\Source\Repos\SysInventory\ProductoDAL\bin\Debug\net8.0\SysInventory.DAL.deps.json
+C:\Users\Vianca\Source\Repos\SysInventory\ProductoDAL\bin\Debug\net8.0\SysInventory.DAL.dll
+C:\Users\Vianca\Source\Repos\SysInventory\ProductoDAL\bin\Debug\net8.0\SysInventory.DAL.pdb
+C:\Users\Vianca\Source\Repos\SysInventory\ProductoDAL\bin\Debug\net8.0\SysInventory.EN.dll
+C:\Users\Vianca\Source\Repos\SysInventory\ProductoDAL\bin\Debug\net8.0\SysInventory.EN.pdb
+C:\Users\Vianca\Source\Repos\SysInventory\ProductoDAL\obj\Debug\net8.0\SysInventory.DAL.csproj.AssemblyReference.cache
+C:\Users\Vianca\Source\Repos\SysInventory\ProductoDAL\obj\Debug\net8.0\SysInventory.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vianca\Source\Repos\SysInventory\ProductoDAL\obj\Debug\net8.0\SysInventory.DAL.AssemblyInfoInputs.cache
+C:\Users\Vianca\Source\Repos\SysInventory\ProductoDAL\obj\Debug\net8.0\SysInventory.DAL.AssemblyInfo.cs
+C:\Users\Vianca\Source\Repos\SysInventory\ProductoDAL\obj\Debug\net8.0\SysInventory.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Vianca\Source\Repos\SysInventory\ProductoDAL\obj\Debug\net8.0\SysInventory.DAL.sourcelink.json
+C:\Users\Vianca\Source\Repos\SysInventory\ProductoDAL\obj\Debug\net8.0\SysInven.4C47C6E4.Up2Date
+C:\Users\Vianca\Source\Repos\SysInventory\ProductoDAL\obj\Debug\net8.0\SysInventory.DAL.dll
+C:\Users\Vianca\Source\Repos\SysInventory\ProductoDAL\obj\Debug\net8.0\refint\SysInventory.DAL.dll
+C:\Users\Vianca\Source\Repos\SysInventory\ProductoDAL\obj\Debug\net8.0\SysInventory.DAL.pdb
+C:\Users\Vianca\Source\Repos\SysInventory\ProductoDAL\obj\Debug\net8.0\ref\SysInventory.DAL.dll

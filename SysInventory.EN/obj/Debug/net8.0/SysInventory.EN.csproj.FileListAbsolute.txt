@@ -1,0 +1,13 @@
+C:\Users\Vianca\Source\Repos\SysInventory\SysInventory.EN\bin\Debug\net8.0\SysInventory.EN.deps.json
+C:\Users\Vianca\Source\Repos\SysInventory\SysInventory.EN\bin\Debug\net8.0\SysInventory.EN.dll
+C:\Users\Vianca\Source\Repos\SysInventory\SysInventory.EN\bin\Debug\net8.0\SysInventory.EN.pdb
+C:\Users\Vianca\Source\Repos\SysInventory\SysInventory.EN\obj\Debug\net8.0\SysInventory.EN.csproj.AssemblyReference.cache
+C:\Users\Vianca\Source\Repos\SysInventory\SysInventory.EN\obj\Debug\net8.0\SysInventory.EN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vianca\Source\Repos\SysInventory\SysInventory.EN\obj\Debug\net8.0\SysInventory.EN.AssemblyInfoInputs.cache
+C:\Users\Vianca\Source\Repos\SysInventory\SysInventory.EN\obj\Debug\net8.0\SysInventory.EN.AssemblyInfo.cs
+C:\Users\Vianca\Source\Repos\SysInventory\SysInventory.EN\obj\Debug\net8.0\SysInventory.EN.csproj.CoreCompileInputs.cache
+C:\Users\Vianca\Source\Repos\SysInventory\SysInventory.EN\obj\Debug\net8.0\SysInventory.EN.sourcelink.json
+C:\Users\Vianca\Source\Repos\SysInventory\SysInventory.EN\obj\Debug\net8.0\SysInventory.EN.dll
+C:\Users\Vianca\Source\Repos\SysInventory\SysInventory.EN\obj\Debug\net8.0\refint\SysInventory.EN.dll
+C:\Users\Vianca\Source\Repos\SysInventory\SysInventory.EN\obj\Debug\net8.0\SysInventory.EN.pdb
+C:\Users\Vianca\Source\Repos\SysInventory\SysInventory.EN\obj\Debug\net8.0\ref\SysInventory.EN.dll
